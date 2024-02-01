@@ -1,0 +1,94 @@
+img {
+    width: 1300px;
+    height: 1200px;
+}
+
+body {
+    width: 3000px;
+    font-family: 'Doloman Pavljenko Light', sans-serif;
+    font-size: 100%;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+}
+
+.slides-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.slide {
+    width: 3000px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.slide__header {
+    font-size: 7em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #38509e;
+}
+
+.slide2__container,
+.slide4__container,
+.elements-container {
+    width: 3000px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 40px;
+}
+
+.slide2__container span,
+.slide4__container span {
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    padding: 60px 120px;
+    margin: 30px;
+    cursor: pointer;
+    border: none;
+    border-radius: 40px;
+    font-size: 5em;
+    font-family: 'Doloman Pavljenko Light', sans-serif;
+}
+
+.button--primary {
+    background-color: #38509e;
+    color: white;
+}
+
+.button--secondary {
+    background-color: #f7f2ec;
+    color: #38509e;
+}
+
+.font-container1 .h1-1200 {
+    font-family: 'Playfair Display Regular', serif;
+    font-weight: 100;
+    font-size: 1200%;
+}
+
+.font-container1 .h2-1200 {
+    font-family: 'Playfair Display Regular', serif;
+    font-weight: 100;
+    font-size: 1200%;
+}
+
+.font-container1 .text1-1200 {
+    font-family: 'Doloman Pavljenko Light', sans-serif;
+    font-weight: 100;
+    font-size: 1200%;
+}
+
+.font-container1 .text2-1200 {
+    font-family: 'Doloman Pavljenko Light', sans-serif;
+    font-weight: 100;
+    font-size: 1200%;
+}
