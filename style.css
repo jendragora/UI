@@ -4,7 +4,7 @@ img {
 }
 
 body {
-    width: 3000px;
+    width: 1440px;
     font-family: 'Doloman Pavljenko Light', sans-serif;
     font-size: 100%;
     font-weight: 100;
@@ -18,7 +18,7 @@ body {
 }
 
 .slide {
-    width: 3000px;
+    width: 1440px;
     margin-bottom: 20px;
     padding: 20px;
     border: 1px solid #ccc;
@@ -34,7 +34,7 @@ body {
 .slide2__container,
 .slide4__container,
 .elements-container {
-    width: 3000px;
+    width: 1440px;
     display: flex;
     flex-wrap: wrap;
     font-size: 40px;
@@ -50,12 +50,12 @@ body {
 }
 
 .button {
-    padding: 60px 120px;
+    padding: 3px 7px;
     margin: 30px;
     cursor: pointer;
     border: none;
     border-radius: 40px;
-    font-size: 5em;
+    font-size: 3em;
     font-family: 'Doloman Pavljenko Light', sans-serif;
 }
 
@@ -72,23 +72,23 @@ body {
 .font-container1 .h1-1200 {
     font-family: 'Playfair Display Regular', serif;
     font-weight: 100;
-    font-size: 1200%;
+    font-size: 300%;
 }
 
 .font-container1 .h2-1200 {
     font-family: 'Playfair Display Regular', serif;
     font-weight: 100;
-    font-size: 1200%;
+    font-size: 300%;
 }
 
 .font-container1 .text1-1200 {
     font-family: 'Doloman Pavljenko Light', sans-serif;
     font-weight: 100;
-    font-size: 1200%;
+    font-size: 300%;
 }
 
 .font-container1 .text2-1200 {
     font-family: 'Doloman Pavljenko Light', sans-serif;
     font-weight: 100;
-    font-size: 1200%;
+    font-size: 300%;
 }
